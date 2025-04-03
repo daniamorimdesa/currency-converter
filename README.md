@@ -2,6 +2,8 @@
 A simple currency converter built with HTML, CSS, and JavaScript.  
 It fetches real-time exchange rates from an API and allows users to convert between multiple currencies.
 
+![Currency Converter Preview](screenshot.JPG)
+
 ## Features  
 - Converts between multiple currencies  
 - Uses real-time exchange rates  
